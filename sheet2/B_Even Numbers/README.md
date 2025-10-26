@@ -1,6 +1,7 @@
 # Even Numbers
 
 time limit per test1 second
+
 memory limit per test256 megabytes
 
 ## Instruction
@@ -16,16 +17,25 @@ Print the answer according to the required above. If there are no even numbers p
 ## Examples
 
 Input
+
 10
+
 Output
+
 2
+
 4
+
 6
+
 8
+
 10
+
 
 Input
 5
+
 Output
 2
 4

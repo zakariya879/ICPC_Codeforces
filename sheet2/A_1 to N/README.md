@@ -1,6 +1,7 @@
 # 1 to N
 
 time limit per test1 second
+
 memory limit per test256 megabytes
 
 ## Instructions
@@ -16,12 +17,19 @@ Print N lines according to the required above.
 ## Example
 
 Input
+
 5
+
 Output
+
 1
+
 2
+
 3
+
 4
+
 5
 
 ## solution

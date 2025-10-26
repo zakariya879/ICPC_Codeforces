@@ -1,6 +1,7 @@
 # Even, Odd, Positive and Negative
 
 time limit per test1 second
+
 memory limit per test256 megabytes
 
 ## Instructions
@@ -25,12 +26,19 @@ Fourth Line: "Negative: X", where X is the number of negative numbers in the giv
 
 ## Example
 Input
+
 5
+
 -5 0 -3 -4 12
+
 Output
+
 Even: 3
+
 Odd: 2
+
 Positive: 1
+
 Negative: 3
 
 ### Note

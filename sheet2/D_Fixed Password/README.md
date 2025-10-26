@@ -20,14 +20,23 @@ Print "Wrong" if the password is typed wrong otherwise, print "Correct" if the p
 ## Example
 
 Input
+
 2200
+
 1020
+
 1999
+
 1000
+
 9999
+
 Output
+
 Wrong
+
 Wrong
+
 Correct
 
 ## solution
