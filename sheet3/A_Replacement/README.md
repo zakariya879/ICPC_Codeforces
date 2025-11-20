@@ -29,7 +29,7 @@ Output
 
 1 2 0 1 1
 
-## soltion
+## solution
 
 ```
 #include <iostream>
