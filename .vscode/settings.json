@@ -4,6 +4,12 @@
         "iomanip": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "unordered_map": "cpp",
+        "chrono": "cpp",
+        "text_encoding": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "string": "cpp"
     }
 }
